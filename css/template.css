@@ -4,6 +4,7 @@ body{
     background-image: url("../imagens/bg.png");
     background-repeat: no-repeat;
     background-size: contain;
+    background-color: #000;
     font-family: 'Imprima', sans-serif;
     align-self: center;
 }
