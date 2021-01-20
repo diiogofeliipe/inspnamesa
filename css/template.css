@@ -5,6 +5,7 @@ body{
     background-repeat: no-repeat;
     background-size: contain;
     background-color: #000;
+    background-position: fixed;
     font-family: 'Imprima', sans-serif;
     align-self: center;
 }
