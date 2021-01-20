@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Imprima&display=swap');
+
+body{
+    background-image: url("../imagens/bg.png");
+    background-repeat: no-repeat;
+    font-family: 'Imprima', sans-serif;
+    align-self: center;
+}
+
+
+
+#header{
+    background-color: #ededed;
+    background-position: center;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+
+#header nav{
+    text-decoration: none;
+    text-align: center;
+   
+}
+#header nav a {
+    background-color:#582922;
+    border-radius: 3px;
+    margin-bottom: auto;
+    text-decoration:none;
+    color: #FADFC4;
+    font-size: 20px;
+}
+
+#content{
+    background-color: #ededed;
+    background-position: center;
+    border-radius: 10px;
+    width: 100%;
+}
+
+#content{
+    font-size: 20px;
+    text-justify: center;
+    color: #582922;
+    padding: 3px auto;
+}
+
+#content img{
+    width: 100%;
+}
+
+#footer{
+    font-size: 15px;
+    text-decoration: none;
+    background-color: #ededed;
+    background-position: center;
+    border-radius: 15px;
+    color: #582922;
+    text-align: center;
+}
+
