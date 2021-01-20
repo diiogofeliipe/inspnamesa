@@ -68,6 +68,7 @@ body{
     body {
         
     background-size: contain;
+        background-position: right top;
   background-attachment: fixed;
     }
     #container{
